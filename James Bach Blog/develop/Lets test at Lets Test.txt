@@ -24,8 +24,8 @@ Why do I keep saying that? Because the state of the practice in testing is for t
 
 Intellectual testers are not the most common type of tester.
 
-The ISTQB and similar programs require your stupidity and your fear in order to survive. And their business model is working. They don’t debate us for the same reason that HP made billions of dollars selling bad test tools by pitching them to non-testers who had more money than wisdom. Debating us would spoil their racket.
+ISTQB и подобное вынуждают людей быть глупыми и запуганными. И эта бизнес-модель работает. Они не спорят с нами по той же причине, по которой HP заработала миллиарды долларов на продаже плохих инструментов тестирования, предлая их не-тестировщикам, имевшим денег больше чем мудрости. Спор с нами лишь усложнил бы их схему.
 
-So, don’t be like that. Be smart.
+Не будьте такими. Будьте умнее.
 
-I’ll see you at Let’s Test.
+Встретимся на Let's Test.
