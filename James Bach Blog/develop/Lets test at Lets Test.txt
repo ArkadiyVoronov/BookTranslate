@@ -1,8 +1,6 @@
 Let’s test at Let’s Test
 
-
-
-I’ve been telling people that the best conference I know for thinking testers is Let’s Test (followed closely by CAST, which I will also be at, this year, in New York). Let’s Test was created by people who experienced CAST and wanted to be even more dedicated to Context-Driven testing principles.
+Я говорил людям, что лучшая конференция о мышлении тестировщиков, о которой мне известно, это Let’s Test (я внимательно следил и за CAST, который я также будет в этом году, в Нью-Йорке). Let’s Test был создан людьми, которые побывали на CAST и хотели бы посвятить больше времени принципам Context-Driven тестирования. 
 
 Now, I’m here in Stockholm once again to be with the most interesting testers in Europe. I’m not done with my presentations, yet. But I still have a couple of days.
 
