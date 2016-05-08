@@ -1,0 +1,31 @@
+Let’s test at Let’s Test
+
+
+
+I’ve been telling people that the best conference I know for thinking testers is Let’s Test (followed closely by CAST, which I will also be at, this year, in New York). Let’s Test was created by people who experienced CAST and wanted to be even more dedicated to Context-Driven testing principles.
+
+Now, I’m here in Stockholm once again to be with the most interesting testers in Europe. I’m not done with my presentations, yet. But I still have a couple of days.
+
+(I will presenting a new model of what it means to be an excellent observer, together with one or two observation challenges for participants. And Pradeep Soundararajan and I will be presenting a tutorial on reviewing a specification by testing it.)
+
+Let’s Test is not for the faint of heart. Events go on day and night. I suffer from terrible jet lag, so I probably won’t be seen after dinner. But for you crazy kids, it’s a great place to try a testing exercise, or present one.
+
+(Note: I’m being paid to teach at Let’s Test. I don’t get a percentage of the gate, though– I get paid the same whether anyone shows up or not.)
+
+Australia Let’s Test
+
+I will also be in Australia for the first Let’s Test happening down there, in September. There are some interesting testers in Oz. I’m sure they will all be there. It will be the first great party of ambitious intellectual testers that I know of in the history of Australian testing.
+
+Anne-Marie Charrett and I will be doing our Coaching Testers tutorial, which is the only time this year we will teach it together.
+
+“Intellectual” testers?
+
+Why do I keep saying that? Because the state of the practice in testing is for testers NOT to read about their craft, NOT to study social science or know anything about the proper use of statistics or the meaning of the word “heuristic”, and NOT to challenge the now 40 year stale ideas about making testing into factory work that lead directly to mass outsourcing of testing to lowest bidder instead of the most able tester.
+
+Intellectual testers are not the most common type of tester.
+
+The ISTQB and similar programs require your stupidity and your fear in order to survive. And their business model is working. They don’t debate us for the same reason that HP made billions of dollars selling bad test tools by pitching them to non-testers who had more money than wisdom. Debating us would spoil their racket.
+
+So, don’t be like that. Be smart.
+
+I’ll see you at Let’s Test.
